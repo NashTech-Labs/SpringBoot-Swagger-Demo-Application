@@ -1,4 +1,4 @@
-package com.knoldus.springbootswagger;
+package org.nashtech.springbootswagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -13,7 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * Here Swagger2 Configuration is Enabled in Spring API
  * copyright : knoldus Inc.
  * version : 11.0.11
- * @author shashikant 22/06/2022
+ * @author shashikant 02/03/2023
  */
 @Configuration
 @EnableSwagger2

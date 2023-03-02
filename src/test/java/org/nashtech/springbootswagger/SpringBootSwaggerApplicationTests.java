@@ -1,4 +1,4 @@
-package com.knoldus.springbootswagger;
+package org.nashtech.springbootswagger;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

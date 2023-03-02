@@ -1,4 +1,4 @@
-package com.knoldus.springbootswagger.model;
+package org.nashtech.springbootswagger.model;
 
 import lombok.*;
 import org.jfairy.producer.person.Address;
@@ -9,7 +9,7 @@ import org.joda.time.DateTime;
  * this Student class is used for describing their entity like id,name,address,etc.
  * copyright : knoldus Inc.
  * version : 11.0.11
- * @author shashikant on 22/06/2022
+ * @author shashikant on 02/03/2023
  */
 
 @Data

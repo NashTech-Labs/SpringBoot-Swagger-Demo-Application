@@ -1,6 +1,6 @@
-package com.knoldus.springbootswagger.service;
+package org.nashtech.springbootswagger.service;
 
-import com.knoldus.springbootswagger.model.Student;
+import org.nashtech.springbootswagger.model.Student;
 import jakarta.annotation.PostConstruct;
 import java.util.HashMap;
 import java.util.List;
@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
  * this StudentService is used to map student from database.
  * copyright : knoldus Inc.
  * version : 11.0.11
- * @author shashikant on 22/06/2022
+ * @author shashikant on 02/03/2023
  */
 @Service
 public class StudentService {

@@ -1,7 +1,7 @@
-package com.knoldus.springbootswagger.controller;
+package org.nashtech.springbootswagger.controller;
 
-import com.knoldus.springbootswagger.model.Student;
-import com.knoldus.springbootswagger.service.StudentService;
+import org.nashtech.springbootswagger.model.Student;
+import org.nashtech.springbootswagger.service.StudentService;
 import io.swagger.annotations.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -16,7 +16,7 @@ import java.util.List;
  * This API provides the capability to search Student from a Student Repository.
  * copyright : knoldus Inc.
  * version : 11.0.11
- * @author : shashikant on 22/06/2022
+ * @author : shashikant on 02/03/2023
  */
 
 @RestController
